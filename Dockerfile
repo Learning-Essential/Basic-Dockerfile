@@ -1,2 +1,2 @@
 FROM alpine:latest
-CMD ["echo", "Helllo RahulKRajput"]
+CMD ["echo", "Hello, RahulKRajput!"]
