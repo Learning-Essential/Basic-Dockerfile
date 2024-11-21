@@ -25,7 +25,7 @@ In Dockerfile keep in mind every "Instruction" (Instruction are start from very 
 
 
                 " FROM  alpine:latest
-                  CMD  ["echo", "Hello Rahul"]  "
+                  CMD  ["echo", "Hello, Rahul!"]  "
 
 
                 
